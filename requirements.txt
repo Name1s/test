@@ -1,7 +1,13 @@
 Flask==3.0.0
 gunicorn
-sqlite3
+render_template
 webbrowser
 json
 random
+request
+session
+redirect
+url_for
+jsonify
 string
+sqlite3
